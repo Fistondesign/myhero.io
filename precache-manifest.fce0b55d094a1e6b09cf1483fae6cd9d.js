@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd42936c93e3bce2003e8683758a9063",
+    "revision": "5e3ecbfefed4a066963ad42c356ff8c3",
     "url": "/myhero.io/index.html"
   },
   {
-    "revision": "aca43bdfcac7a134a777",
-    "url": "/myhero.io/static/css/main.8ac5c7b5.chunk.css"
+    "revision": "c3d95fd1a4420152a352",
+    "url": "/myhero.io/static/css/main.08eb5c77.chunk.css"
   },
   {
-    "revision": "dc3a5819fec25def11b1",
-    "url": "/myhero.io/static/js/2.3b28eb55.chunk.js"
+    "revision": "dc12f4306fb67217b318",
+    "url": "/myhero.io/static/js/2.2edfbef2.chunk.js"
   },
   {
     "revision": "52dfbeda0d8fcd66821ea0be571eb11e",
-    "url": "/myhero.io/static/js/2.3b28eb55.chunk.js.LICENSE.txt"
+    "url": "/myhero.io/static/js/2.2edfbef2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aca43bdfcac7a134a777",
-    "url": "/myhero.io/static/js/main.7c5cb0fc.chunk.js"
+    "revision": "c3d95fd1a4420152a352",
+    "url": "/myhero.io/static/js/main.99bc18d3.chunk.js"
   },
   {
     "revision": "4f467b453d2f4948d915",
     "url": "/myhero.io/static/js/runtime-main.4b439dad.js"
   },
   {
-    "revision": "3f4b22a5f80a10a92526dc2a75c7b26b",
-    "url": "/myhero.io/static/media/headerprofile.3f4b22a5.png"
+    "revision": "6bffc5cce806f96e0a2c0eeed4202400",
+    "url": "/myhero.io/static/media/edit3.6bffc5cc.png"
   },
   {
     "revision": "82f6e9f2ec5cc321b83a14e4c0f40a51",
