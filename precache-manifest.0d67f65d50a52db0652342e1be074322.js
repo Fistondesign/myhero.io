@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e3ecbfefed4a066963ad42c356ff8c3",
+    "revision": "2c6655fb6a5a2032cfbb66044be6251e",
     "url": "/myhero.io/index.html"
   },
   {
-    "revision": "c3d95fd1a4420152a352",
-    "url": "/myhero.io/static/css/main.08eb5c77.chunk.css"
+    "revision": "6195f6cd4c3696529235",
+    "url": "/myhero.io/static/css/main.d2b299f6.chunk.css"
   },
   {
     "revision": "dc12f4306fb67217b318",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myhero.io/static/js/2.2edfbef2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3d95fd1a4420152a352",
-    "url": "/myhero.io/static/js/main.99bc18d3.chunk.js"
+    "revision": "6195f6cd4c3696529235",
+    "url": "/myhero.io/static/js/main.c5b86cf4.chunk.js"
   },
   {
     "revision": "4f467b453d2f4948d915",
